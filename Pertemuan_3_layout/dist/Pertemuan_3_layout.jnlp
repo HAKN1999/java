@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Pertemuan_3_layout.jnlp">
+    <information>
+        <title>Pertemuan_3_layout</title>
+        <vendor>superhafizd</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="11.0.8+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="Pertemuan_3_layout.jar" size="1849" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="pertemuan_3_layout.Pertemuan_3_layout" name="Pertemuan_3_layout"/>
+</jnlp>
+
